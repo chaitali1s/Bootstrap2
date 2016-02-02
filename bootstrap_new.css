@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+body{
+	font-family: 'Muli', sans-serif;
+}
+.custom-footer{
+	margin-bottom:0px;
+	background-color:#393DEB;
+}
+.bar-custom{
+		background-color:#393DEB;
+		color:black;
+}
+.header-text{
+	text-align: center
+}
+
+.custom-border{
+	border:1px solid black;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.custom-panel{
+	max-width:110px;
+	height:auto;
+	margin: 5px 5px;
+}
+
+.custom-map{
+	width:50%;
+	height:100px;
+	margin:10px;
+}
